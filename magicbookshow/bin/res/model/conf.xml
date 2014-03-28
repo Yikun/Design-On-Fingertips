@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+<!--This is a config file for the Irrlicht Engine Mesh Viewer.-->
+<model id="1" price="2450" mesh="./model/chuang/chuang.3DS" texture="./model/chuang/C_02.TGA" name="first" preview="./preview/chuang.png"></model>
+<model id="2" price="3600" mesh="./model/chaji/chaji.3DS" texture="./model/chaji/" name="sencond" preview="./preview/chaji.png"></model>
+<model id="3" price="3610" mesh="./model/ds/ds.3DS" texture="./model/ds/" name="third" preview="./preview/dianshi.png"></model>
+<model id="4" price="3600" mesh="./model/yizi/yizi.3DS" texture="./model/yizi/" name="four" preview="./preview/yizi.png"></model>
+<model id="5" price="2450" mesh="./model/shafa/sf.3DS" texture="./model/shafa/" name="five" preview="./preview/shafa.png"></model>
+<model id="6" price="3600" mesh="./model/shugui/SG.3DS" texture="./model/shugui/" name="six" preview="./preview/shugui.png"></model>
+<model id="7" price="3620" mesh="./model/zhuozi/zhuozi.3DS" texture="./model/zhuozi/" name="seven" preview="./preview/zhuozi.png"></model>
+</config>

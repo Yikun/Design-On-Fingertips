@@ -1,0 +1,15 @@
+#the number of patterns to be recognized
+3
+
+#pattern 1
+one
+Data/patt.one
+20.0
+0.0 0.0
+
+#pattern 2
+two
+Data/patt.two
+20.0
+0.0 0.0
+

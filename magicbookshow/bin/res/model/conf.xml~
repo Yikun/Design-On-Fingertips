@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+<!--This is a config file for the Irrlicht Engine Mesh Viewer.-->
+<model id="1" price="2450" mesh="./box.irrmesh" texture="./DOUKA.bmp" name="first" preview="./DOUKA.bmp"></model>
+<model id="2" price="3600" mesh="./bed2.3ds" texture="./DOUKA3.bmp" name="sencond" preview="./arch49_leather_bump.jpg"></model>
+<model id="3" price="3610" mesh="./commode_nightstand1.3ds" texture="./DOUKA.bmp" name="third" preview="./DOUKA.bmp"></model>
+<model id="4" price="3620" mesh="./couch1.3ds" texture="./FABRIC3.bmp" name="fourth" preview="./gray.png"></model>
+<model id="5" price="3600" mesh="./couch2.3ds" texture="./FABRIC3.bmp" name="fifth" preview="./arch49_leather_bump.jpg"></model>
+<model id="6" price="3600" mesh="./couch2.3ds" texture="./FABRIC3.bmp" name="fifth" preview="./arch49_leather_bump.jpg"></model>
+</config>

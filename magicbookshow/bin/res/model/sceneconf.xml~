@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+	<!--This is a config file for the Irrlicht Engine Mesh Viewer.-->
+	<scene id="1" pat="Data/patt.hiro" scenemodel="./res/model/House.3DS" scenetexture="" scene1="./test.irr" scene2="./test.irr" scene3="./test.irr"></scene> 
+	<scene id="2" pat="Data/patt.two" scenemodel="./res/model/House.3DS" scenetexture="./res/model/media/sydney.bmp" scene1="./build2.irr" scene2="./build2.irr" scene3="./build2.irr"></scene>
+	<scene id="3" pat="Data/patt.three" scenemodel="./res/model/House.3DS" scenetexture="./res/model/media/sydney.bmp" scene1="./test.irr" scene2="./test.irr" scene3="./test.irr"></scene>
+</config>

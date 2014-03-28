@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+	<!--This is a config file for the Irrlicht Engine Mesh Viewer.-->
+	<scene id="1" pat="Data/patt.aaa" scenemodel="./res/model/fw.3DS" scenetexture="" scene1="./build10.irr" scene2="./build11.irr" scene3="./build12.irr"></scene> 
+	<scene id="2" pat="Data/patt.b" scenemodel="./res/model/fw.3DS" scenetexture="" scene1="./build20.irr" scene2="./build21.irr" scene3="./build22.irr"></scene>
+</config>
