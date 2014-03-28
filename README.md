@@ -58,4 +58,4 @@ sudo apt-get install build-essential freeglut3-dev qt4-dev-tools qt4-doc qt4-qtc
 实际效果
 ---
 
-![actual](yikun.github.io/assets/pic/design/actual.PNG)
+![actual](http://yikun.github.io/assets/pic/design/actual.PNG)
