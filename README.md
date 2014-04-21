@@ -6,7 +6,7 @@
 
 这部分代码是该系统的软件部分，类似于一个第一人称的3D游戏，基于irrlicht引擎，ARToolkit库。
 
-![all](http://yikun.github.io/assets/pic/design/all.png)
+![all](http://yikun.github.io/assets/project/DesignonFingertips/all.png)
 
 系统环境
 -------
@@ -21,11 +21,11 @@ sudo apt-get install build-essential freeglut3-dev qt4-dev-tools qt4-doc qt4-qtc
 -------
 + 虚拟现实场景 
 
-![ar](http://yikun.github.io/assets/pic/design/ar.png)
+![ar](http://yikun.github.io/assets/project/DesignonFingertips/ar.png)
 虚拟现实场景可以将房屋的外景展示给使用者。
 
 + 室内设计场景
-![scene](http://yikun.github.io/assets/pic/design/scene.png)
+![scene](http://yikun.github.io/assets/project/DesignonFingertips/scene.png)
 进入室内设计场景后，你也可以利用下面的键盘按键对家具进行操作。
 	
 	- 视角控制
@@ -58,4 +58,4 @@ sudo apt-get install build-essential freeglut3-dev qt4-dev-tools qt4-doc qt4-qtc
 实际效果
 ---
 
-![actual](http://yikun.github.io/assets/pic/design/actual.PNG)
+![actual](http://yikun.github.io/assets/project/DesignonFingertips/actual.PNG)
